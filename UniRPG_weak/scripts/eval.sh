@@ -1,0 +1,2 @@
+# python3 tatqa_eval.py --gold_path dataset_raw/tatqa_dataset_dev.json --pred_path checkpoint/bart-base/batch_size_128_lr_0.0001_blr_0.0001_wd_0.01_bwd_0.01_beams_4_epoch_30_maxlength_50_add_structure_0_sample_False/pred_result_on_dev.json
+python3 tatqa_eval.py --gold_path dataset_raw/tatqa_dataset_dev.json --pred_path checkpoint/bart-large/ensemble/pred_result_on_dev.json

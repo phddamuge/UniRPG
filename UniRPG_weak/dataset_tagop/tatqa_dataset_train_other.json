@@ -1,0 +1,1910 @@
+[
+    {
+        "question": "What is the 2018 deferred tax on overseas earnings, excluding the 15\u20acm charge relating to the combination of Vodafone India with Idea Cellular?",
+        "derivation": "24-15"
+    },
+    {
+        "question": "What is the 2017 deferred tax on overseas earnings, excluding the 95\u20acm charge relating to the combination of Vodafone India with Idea Cellular?",
+        "derivation": "26-95"
+    },
+    {
+        "question": "How much money has not been committed as of December 31, 2019 for total available lines of credit?",
+        "derivation": "1,344.1-1,137.4"
+    },
+    {
+        "question": "How much would diluted EPS be for second quarter ended of fiscal year 2019 without the net charge related to the enactment of the TCJA and the net income tax benefit related to the intangible property transfers?",
+        "derivation": "1.71+0.02"
+    },
+    {
+        "question": "How much would diluted earnings per share for fiscal year 2018 be without the net charge (benefit) related to the enactment of the TCJA?",
+        "derivation": "2.13+1.75"
+    },
+    {
+        "question": "What are the total deferred revenues for both 2018 and 2019?",
+        "derivation": "$67+$75"
+    },
+    {
+        "question": "How many proposed dividends were not recognised at the end of both years?",
+        "derivation": "5,922 + 7,865 "
+    },
+    {
+        "question": "What is the farm production cost in year ended 2019 as a percentage of total cost?",
+        "derivation": "635,797 / 1,138,329"
+    },
+    {
+        "question": "What is the cost of sales per dozen produced in year ended 2019?",
+        "derivation": "1,138,329 / 876,705"
+    },
+    {
+        "question": "In 2018, what is the difference in revenue between South Korea and Singapore?",
+        "derivation": "376-314"
+    },
+    {
+        "question": "What was the intelligent cloud as a percentage of total revenue in 2019?",
+        "derivation": "38,985/125,843"
+    },
+    {
+        "question": "How much is the change of adjusted EBITDA from 2015 to 2016?",
+        "derivation": "44,887 - (-41,115) "
+    },
+    {
+        "question": "How much more revenue does the company have in Asia have over Europe for 2019?",
+        "derivation": "818.2-126.2"
+    },
+    {
+        "question": "How much does the top 2 maximum possible value of MSUs in 2019 add up to?",
+        "derivation": "(4,067,526+1,379,350)"
+    },
+    {
+        "question": "What is the patent litigation & arbitration settlements expressed as a percentage of Equipment revenue in 2019?",
+        "derivation": "159 millions / 1,068,645 thousands"
+    },
+    {
+        "question": "How much was the Trade receivables, net of allowances for doubtful accounts changed by Topic 606?",
+        "derivation": "43,028/1,315,578 "
+    },
+    {
+        "question": "At the beginning of the financial year, what percentage of total indebtedness is made up of deposits?",
+        "derivation": "3/228 "
+    },
+    {
+        "question": "At the end of the financial year, what percentage of total indebtedness is made up of secured loans excluding deposits?",
+        "derivation": "39/43 "
+    },
+    {
+        "question": "What is the Total long-term debt, less current portion for 2019, without accounting for unamortized discounts and debt issuance costs?",
+        "derivation": "3,698.6-25"
+    },
+    {
+        "question": "How much did the total cost of revenues increase by from 2018 to 2019?",
+        "derivation": "209,756-170,574"
+    },
+    {
+        "question": "How much is the combined 2019 cost of revenues for VAS and Fintech and Business Services?",
+        "derivation": "94,086+73,831"
+    },
+    {
+        "question": "How much is the combined 2019 cost of revenues for Online Advertising and Others?",
+        "derivation": "34,860+6,979"
+    },
+    {
+        "question": "How much is the total additions and Acquisition adjustments over 2018 and 2019?",
+        "derivation": "157,121+6,215-901"
+    },
+    {
+        "question": "By what percentage did the number of employees in the Engineering department increase from 2019 to 2020?",
+        "derivation": "(13-9)/9"
+    },
+    {
+        "question": "How much was the company charged approximately for each employee that was dismissed?",
+        "derivation": "$381,000/40"
+    },
+    {
+        "question": "How much is the current accrued benefit liability as a percentage of the total accrued benefit liability in 2019?",
+        "derivation": "335/7,239 "
+    },
+    {
+        "question": "What is the amount of purchase obligations due in the next 3 years?",
+        "derivation": "16,748+3,669"
+    },
+    {
+        "question": "How much less operating lease obligations than purchase obligations does the company have due in less than 1 year?",
+        "derivation": "16,748-9,008"
+    },
+    {
+        "question": "What is the liability to asset ratio as of August 1, 2018?",
+        "derivation": "15.1/85.9"
+    },
+    {
+        "question": "What is the adjustment of total liabilities expressed as a percentage of total liabilities as of August 1, 2018?",
+        "derivation": "-2.0/15.1"
+    },
+    {
+        "question": "What was the amount of capital additions for the UK as a percentage of the group total in 2019?",
+        "derivation": "36.8/(36.8+143.1)"
+    },
+    {
+        "question": "What is the amount of expenses incurred for FY 2019?",
+        "derivation": "146,463-39,506 "
+    },
+    {
+        "question": "What is the amount of tax expense for FY 2019?",
+        "derivation": "41,563-31,472 "
+    },
+    {
+        "question": "By what amount did the EPS increase from FY 2018 to FY 2019?",
+        "derivation": "83.05-67.10 "
+    },
+    {
+        "question": "What is the company's net interest expense in 2018?",
+        "derivation": "-$85 + 20 "
+    },
+    {
+        "question": "What is the Sales and marketing costs expressed as a percentage of Total operating expenses in 2019?",
+        "derivation": "32/70"
+    },
+    {
+        "question": "What is the % change in key management personnel compensation from 2018 to 2019, excluding directors' remuneration?",
+        "derivation": "(19.4 - 28.5) / 28.5"
+    },
+    {
+        "question": "What is the % change in the balance at end of year from 2018 to 2019?",
+        "derivation": "(15.7-3.0)/3.0"
+    },
+    {
+        "question": "By how much less was the provision for income taxes in 2019 compared to 2018?",
+        "derivation": "8,837 - 1,185 "
+    },
+    {
+        "question": "How much was the total provision for income taxes across 2018 and 2019?",
+        "derivation": "1,185 + 8,837 "
+    },
+    {
+        "question": "How much was the percentage decrease in ending price of outstanding common stock purchase warrants from 2018 to 2019?",
+        "derivation": "(0.59 - 0.10) / 0.59 "
+    },
+    {
+        "question": "How many shares were purchased in 2019?",
+        "derivation": "(524,577+116,042)"
+    },
+    {
+        "question": "What was the proportion of equities to fixed income for 2018?",
+        "derivation": "55%/40%"
+    },
+    {
+        "question": "For Non-GAAP Revenue, how much is the target more than the actual in terms of percentages? ",
+        "derivation": "(4,943-4,804)/4,804"
+    },
+    {
+        "question": "What is the CDT of Fiscal year 2020 expressed as a percentage of Total CDT?",
+        "derivation": "675/10,248"
+    },
+    {
+        "question": "What is the increase in total other financial assets from 2018 to 2019?",
+        "derivation": "737 - 575 "
+    },
+    {
+        "question": "How much is the ending projected benefit obligation outside of the US in 2018?",
+        "derivation": "65% * 3,433 "
+    },
+    {
+        "question": "How much is the ending fair value of plan assets in the US in 2019?",
+        "derivation": "55% * 2,654 "
+    },
+    {
+        "question": "What is the Debt due within one year expressed as a ratio of Long-term debt for 2019?",
+        "derivation": "3,881/22,415"
+    },
+    {
+        "question": "What was the % change in the net deferred tax assets from 2018 to 2019?",
+        "derivation": "(2,432-1,337)/1,337"
+    },
+    {
+        "question": "What is Total Accumulated impairment expressed as a percentage of Gross Carrying Value for 2019?",
+        "derivation": "190.3/2,407.2"
+    },
+    {
+        "question": "What is the Average total Carrying Value for years 2017-2019?",
+        "derivation": "(2,216.9+1,947.6+1,939.8)/3"
+    },
+    {
+        "question": "What is Indraneel Dev's salary earned during 2019 expressed as a ratio of his/her STI bonus amount?",
+        "derivation": "$650,000/$832,260"
+    },
+    {
+        "question": "What is difference on the aggregate intrinsic value between Outstanding and Vested and exercisable as of December 31, 2019?",
+        "derivation": "$6,395-$6,210"
+    },
+    {
+        "question": "What is the price of each class A share? ",
+        "derivation": "1,309*1million/261,755,983"
+    },
+    {
+        "question": "How much more hardware revenues came from the Americas as compared to Asia Pacific in 2018? ",
+        "derivation": "2,003 - 790"
+    },
+    {
+        "question": "What was the sales and marketing expenses in 2019 and 2018?",
+        "derivation": "520 + 643 "
+    },
+    {
+        "question": "How much is the total operating assets as at 31 December 2019?",
+        "derivation": "345,721+168,714"
+    },
+    {
+        "question": "How much is the difference between 2018 year end and 2019 year end europe investments?",
+        "derivation": "37,451-29,707"
+    },
+    {
+        "question": "What difference between total interest payments and total operating lease obligations?",
+        "derivation": "168,040 - 162,913 "
+    },
+    {
+        "question": "What was the fair value of Level 2 Total cash, cash equivalents and short-term investments as a percentage of the total cash, cash equivalents and short-term investments?",
+        "derivation": "1,552/3,899"
+    },
+    {
+        "question": "What is the company's gross unrecognized tax benefits - ending balance in 2016?",
+        "derivation": "$4,441 + $4,191 + $3,782 "
+    },
+    {
+        "question": "What is the company's change in beginning balance between 2018 and 2019?",
+        "derivation": "($4,191 - $3,782)/$3,782 "
+    },
+    {
+        "question": "What is the nominal difference of non-current self-insured risks between 2019 and 2018?",
+        "derivation": "430 - 419 "
+    },
+    {
+        "question": "What is property, plant and equipment expressed as a ratio of the total estimated aggregate consideration under the balance as of December 31, 2017?",
+        "derivation": "9,311/19,617"
+    },
+    {
+        "question": "What is the profit margin for the fourth quarter of 2019?",
+        "derivation": "22,372/105,767"
+    },
+    {
+        "question": "What is the profit margin for the third quarter of 2019?",
+        "derivation": "20,976/97,236"
+    },
+    {
+        "question": "What is  Interest (income) expressed as a percentage of  Total other (income) expense, net?",
+        "derivation": "-98/-479"
+    },
+    {
+        "question": "How much more was the research and development expenses in 2018 compared to 2019?",
+        "derivation": "5,163 - 5,063 "
+    },
+    {
+        "question": "What was the balance of EMS as in 2018 as a percentage of the total balance at the end of fiscal 2018?",
+        "derivation": "82,670/627,745"
+    },
+    {
+        "question": "Excluding the restructuring spend related to recent acquisitions, what is the low Total estimated cash cost?",
+        "derivation": "840-2.3"
+    },
+    {
+        "question": "What is the Total expense expressed as a percentage of Total estimated cash cost for the low estimate?",
+        "derivation": "585/840"
+    },
+    {
+        "question": "For High Total Restructuring program range, what is the Total Capital expenditure expressed as a percentage of total estimated cash cost?",
+        "derivation": "270/885"
+    },
+    {
+        "question": "What is difference between the value of Others, Allowances of the CEO and COO?",
+        "derivation": "138.76-60.35 "
+    },
+    {
+        "question": "How much does net working capital account for in Efficiency? ",
+        "derivation": "5%/10%"
+    },
+    {
+        "question": "What is the Underlying effective tax rate change from 2018 to 2019?",
+        "derivation": "25.5 - 25.7"
+    },
+    {
+        "question": "What is the Revenues from customers inside the U.S. expressed as a percentage of Total net revenues for 2019?",
+        "derivation": "2.8 billion /4,731 million"
+    },
+    {
+        "question": "What is the company's total cash, cash equivalents and short-term investments in both 2018 and 2019?",
+        "derivation": "$182.7 + $162.9 "
+    },
+    {
+        "question": "What was the increase in Joe Kaeser salary from 2018 to 2019?",
+        "derivation": "1,234,800 - 1,210,440"
+    },
+    {
+        "question": "For the joint venture with Airtel, what is the financial impact of the non-controlling interests on the group's share of net assets?",
+        "derivation": "1,399.0 * 36.5%"
+    },
+    {
+        "question": "As of March 29, 2019, What is Intangible assets expressed as a percentage of  Gross deferred tax assets?",
+        "derivation": "384/754"
+    },
+    {
+        "question": "What is the current ratio in 2019?",
+        "derivation": "75,460/34,555"
+    },
+    {
+        "question": "What is the debts to assets ratio in 2019?",
+        "derivation": "68,903/226,067"
+    },
+    {
+        "question": "What was the contractual obligations due more than 5 years as a percentage of total contractual obligations?",
+        "derivation": "377,507/510,090"
+    },
+    {
+        "question": "What is Manoj Shetty's total accelerated vesting of stock options and unvested performance restricted stock units?",
+        "derivation": "20,687 + 8,107 "
+    },
+    {
+        "question": "What  was the EBITDA margin in 2019?",
+        "derivation": "2,534 / 10,695"
+    },
+    {
+        "question": "What is the current liability to current assets ratio for 2019?",
+        "derivation": " 4,432 / 13,381 "
+    },
+    {
+        "question": "What is the amount lost from the expired shares in 2017?",
+        "derivation": "1,250 * 6.82 "
+    },
+    {
+        "question": "What was Goodwill from Others companies as a percentage of total Goodwill?",
+        "derivation": "26/2,017"
+    },
+    {
+        "question": "What is the weight of Nordic Moon as a percentage of the weight of Nordic Apollo?",
+        "derivation": "160,305/159,998 "
+    },
+    {
+        "question": "For 2017, what is the sum of all the Three-year PSU Awards expressed as a percentage of Total share-based incentive compensation expense?",
+        "derivation": "(9.8+2.0-0.8)/48.5"
+    },
+    {
+        "question": "What was the Transaction and restructuring costs incurred by the acquisition of Sigma Systems?",
+        "derivation": "2,063 + 72 "
+    },
+    {
+        "question": "What is the company's total operating leases and capital leases in 2020?",
+        "derivation": "$22,207 + $241 "
+    },
+    {
+        "question": "What was unused line fee payments as a percentage of total contractual obligations across all periods?",
+        "derivation": "348/133,348"
+    },
+    {
+        "question": "How much did the company pay upon the signing of the toxicology studies agreement?",
+        "derivation": "988,000 * 50% "
+    },
+    {
+        "question": "For Qualified Plan, what is the difference in interest cost between 2018 and 2019?",
+        "derivation": "$19,825-$19,463"
+    },
+    {
+        "question": "For Postretirement health plans, what is the percentage constitution of interest cost among the net periodic benefit cost in 2017?",
+        "derivation": "1,003/1,165"
+    },
+    {
+        "question": "What was total revenue in 2018?",
+        "derivation": "13.5/10.6*100"
+    },
+    {
+        "question": "What is the increase in the Biogas from 2018 to 2019?",
+        "derivation": "17,045 - 15,958"
+    },
+    {
+        "question": "How many options would expire on April 15, 2026?",
+        "derivation": "500,000 + 140,000 "
+    },
+    {
+        "question": "How many options would expire on October 16, 2027?",
+        "derivation": "184,028 + 55,208 "
+    },
+    {
+        "question": "How many unexercised options does Garo H. Armen have as at December 31, 2019?",
+        "derivation": "500,000 + 184,028 "
+    },
+    {
+        "question": "What is the company's total revenue from continuing operations in 2018 and 2019?",
+        "derivation": "946.9 + 896.9 "
+    },
+    {
+        "question": "What is the company's total revenue from continuing operations in 2018 and 2017?",
+        "derivation": "791.8 + 896.9 "
+    },
+    {
+        "question": "Under prepaid expenses and other current assets, what is the ratio of the total derivates designated as hedging instruments to those not designated as hedging instruments?",
+        "derivation": "226/973"
+    },
+    {
+        "question": "How much of the total revenue in 2019 did not come from commercial cloud revenue?",
+        "derivation": "125,843 million - 38.1 billion "
+    },
+    {
+        "question": "Based on the percentage shareholding of Life Insurance Corporation of India, what is the total number of shares outstanding at the beginning of the year, April 1 2018?",
+        "derivation": "75,384,947/3.9% "
+    },
+    {
+        "question": "At end of the year March 31 2019, what is the total cumulative percentage shareholding of all the top ten shareholders?",
+        "derivation": "4.1+0.6+0.5+0.5+0.5+0.4+0.4+0.4+0.4+0.4 "
+    },
+    {
+        "question": "At end of the year March 31 2019, how many cumulative shares do the top ten shareholders hold in total?",
+        "derivation": "152,493,927+21,680,561+19,248,438+18,028,475+16,731,906+16,139,316+15,244,614+15,036,984+14,112,213+13,978,944 "
+    },
+    {
+        "question": "What are the total deductions for accounts receivables in 2019?",
+        "derivation": "526.6-474.3"
+    },
+    {
+        "question": "How much was the research and development and restructuring expenses in 2019?",
+        "derivation": "6,026+443 "
+    },
+    {
+        "question": "How much more was spent on interest expense than on stock-based compensation for operating segments in 2018?",
+        "derivation": "2,025-505 "
+    },
+    {
+        "question": "How much more do all officers and directors as a group have in amount and nature of beneficial ownership as compared to the 5% Stockholders?",
+        "derivation": "7,458,266 - (1,200,130 + 2,242,582 + 2,827,815)  "
+    },
+    {
+        "question": "What is the company's net assets measured at fair value as at December 31, 2019?",
+        "derivation": "$256,915 + $598 - $145 "
+    },
+    {
+        "question": "What is the fair value of the company's total assets as at December 31, 2019?",
+        "derivation": "$256,915 + $598 "
+    },
+    {
+        "question": "What was the number of stock awards that were granted in 2019, not including the PSUs granted?",
+        "derivation": "63-2 "
+    },
+    {
+        "question": "How much was General and Administrative in 2019 as a percentage of the total in 2019?",
+        "derivation": "(5,382/11,029)"
+    },
+    {
+        "question": "How many shares were granted over the 3 year period from 2017 to 2019 ?",
+        "derivation": "(42+44+53)"
+    },
+    {
+        "question": "How much was the total amount of foreign currency losses, net and interest income across 2018 and 2019?",
+        "derivation": "1,092 + 1,203 - 111 - 74 "
+    },
+    {
+        "question": "How much did borrowings change from 2018 year end to 2019 year end?",
+        "derivation": "126,952-114,271"
+    },
+    {
+        "question": "How much did notes payable change from 2018 year end to 2019 year end?",
+        "derivation": "93,861-65,018"
+    },
+    {
+        "question": "How much did the Adjusted EBITDA change  from 2018 year end to 2019 year end?",
+        "derivation": "147,395-118,273"
+    },
+    {
+        "question": "What would the change in Expected Future Pension Benefit Payments under the United States in 2022 from 2021 be?",
+        "derivation": "9,163-8,416"
+    },
+    {
+        "question": "What was the Increases to accruals between 2017 and 2018?",
+        "derivation": "1,606-2,029"
+    },
+    {
+        "question": "What is the company's total debt due within 3 years?",
+        "derivation": "(50,601 + 691,748) "
+    },
+    {
+        "question": "What is the company's total finance lease obligations due within 3 years?",
+        "derivation": "(48,693 + 25,459) "
+    },
+    {
+        "question": "What is the company's unconditional purchase obligations due within 3 years?",
+        "derivation": "1,346 + 12,154 "
+    },
+    {
+        "question": "In 2019, what is the percentage constitution of sales and marketing costs among the total stock-based compensation expense?",
+        "derivation": "11,585/77,739"
+    },
+    {
+        "question": "What is the current deferred revenue in 2019 as a percentage of total deferred revenue?",
+        "derivation": "8,374/9,043 "
+    },
+    {
+        "question": "What is the nominal difference between the sales in F19 and F18?",
+        "derivation": "3,797 - 3,566 "
+    },
+    {
+        "question": "What is the nominal difference between sales per square metre for F19 and F18?",
+        "derivation": "3,629 - 3,369 "
+    },
+    {
+        "question": "How much revenue does the largest 2 sources of revenue streams bring in for Singtel in 2019?",
+        "derivation": "8,412.9 + 3,340.9 "
+    },
+    {
+        "question": "What is the specialty egg as a percentage of total total selling, general and administrative expenses in 2019?",
+        "derivation": "53,263 / 174,795"
+    },
+    {
+        "question": "what is other expenses constitutes as a percentage of total cost in 2019?",
+        "derivation": "25,975 / $174,795"
+    },
+    {
+        "question": "What was marketable securities as a percentage of total cash and marketable securities in 2018?",
+        "derivation": "1,459/122,598"
+    },
+    {
+        "question": "What was the Core and developed technology assets as a percentage of Total purchased intangible assets?",
+        "derivation": "1,075.0/1,888.4"
+    },
+    {
+        "question": "What was the net amount of Core and developed technology assets as a percentage of total intangible assets?",
+        "derivation": "6,300.1/6,685.6"
+    },
+    {
+        "question": "Excluding the one-tax benefit for Fiscal 2017, what is the Net income, attributable to the company for 2017?",
+        "derivation": "1,025,659 thousand-(876.1 million)"
+    },
+    {
+        "question": "How much did the Expected volatility change by between 2018 and 2019?",
+        "derivation": "30.00%-30.00%"
+    },
+    {
+        "question": "What is the Blended ABPU rate per year for 2019?",
+        "derivation": "68.32*12"
+    },
+    {
+        "question": "How much do the top 3 contractual obligation terms add up to?",
+        "derivation": "(352,527+40,177+39,390)"
+    },
+    {
+        "question": "What are the Operating Leases as a percentage of the total contractual obligations? ",
+        "derivation": "(40,177/464,981)"
+    },
+    {
+        "question": "What are the Purchase Obligations as a percentage of the total contractual obligations? ",
+        "derivation": "(39,390/464,981)"
+    },
+    {
+        "question": "Excluding the net for a claim of overpaid taxes related to 2015 through 2018 for 2019, what is the Other, net for 2019?",
+        "derivation": "8.3-4.8"
+    },
+    {
+        "question": "What is the Net foreign exchange transaction loss expressed as a percentage of othe expense, net for 2019?",
+        "derivation": "7.7/19.5"
+    },
+    {
+        "question": "Of the total balances as of January 31, 2019, what percentage came from convertible debt securities?",
+        "derivation": "(4.4/5.2)"
+    },
+    {
+        "question": "How much does the convertible debt securities portion account for the total of change included in earnings?",
+        "derivation": "0.5/0.3 "
+    },
+    {
+        "question": "What was the Weighted Average Grant Date Fair Value of unvested stocks in 2018 as a ratio of the fair value in 2019?",
+        "derivation": "$18.52/$14.58"
+    },
+    {
+        "question": "What was the company's total liabilities in 2018?",
+        "derivation": "4,113.6- (-256) "
+    },
+    {
+        "question": "How much did future minimum lease payments due within one year change by between 2018 and 2019?",
+        "derivation": "2,834-2,686"
+    },
+    {
+        "question": "What is the the value of the 2019 cash on deposit as a percentage of the total 2019 plan assets? ",
+        "derivation": "279/8,238 "
+    },
+    {
+        "question": "What is the company's total revenue in 2019?",
+        "derivation": "$13,889/20% "
+    },
+    {
+        "question": "How much remaining transaction price of fixed fee, non-lease revenue arrangements does the company expect to recognize from Zayo Networks and zColo in 2020?",
+        "derivation": "621.4+21.7"
+    },
+    {
+        "question": "What is the  change in the Adjusted EBITDA target under Short-Term Incentive Plan in 2020?",
+        "derivation": "65%-50%"
+    },
+    {
+        "question": "How much did total operating income gain from 2018 to 2019?",
+        "derivation": "406/5,899"
+    },
+    {
+        "question": "What percentage constitution does total non-current borrowings hold in the total opening balance?",
+        "derivation": "2,199/2,803 "
+    },
+    {
+        "question": "What percentage constitution does bank loans hold in total non-current borrowings in the closing balance?",
+        "derivation": "678/2,855 "
+    },
+    {
+        "question": "Using the intrinsic value of the company's shares issuable under warrants, what is the value of each share?",
+        "derivation": "3,633,335/3,826,658 "
+    },
+    {
+        "question": "What % of equity compensation plans that are approved are shares of common stock issuable upon exercise of outstanding stock options?",
+        "derivation": "105,000/445,000"
+    },
+    {
+        "question": "What % of equity compensation plans that are approved are shares issuable upon vesting of outstanding restricted stock units?",
+        "derivation": "340,000/445,000"
+    },
+    {
+        "question": "What is the EBITDA margin in 2019?",
+        "derivation": "1,990 / 6,292"
+    },
+    {
+        "question": "What is the % change in net deferred gain classified under non-current from 2018 to 2019?",
+        "derivation": "(375.0 - 357.7) / 357.7"
+    },
+    {
+        "question": "What is the percent of total revenue from residential in the total revenue for the year ended December 31, 2019?",
+        "derivation": "18,762/59,830"
+    },
+    {
+        "question": "What is the gross profit as reported in 2019?",
+        "derivation": "9,653,559-5,295,100"
+    },
+    {
+        "question": "What is the gross profit ratio as reported in 2019?",
+        "derivation": "(9,653,559-5,295,100)/9,653,559"
+    },
+    {
+        "question": "What are the total assets increase / (decrease) from 2018 to 2019?",
+        "derivation": "152,186 - 123,382"
+    },
+    {
+        "question": "What is the Debt to Capital Ratio in 2019?",
+        "derivation": "62,899 / (62,899 + 45,812)"
+    },
+    {
+        "question": "What is the company's total unrealized gain on marketable securities between 2017 to 2019?",
+        "derivation": "395+(-21)+(-78) "
+    },
+    {
+        "question": "What is the company's total Comprehensive loss between 2017 to 2019?",
+        "derivation": "$(-17,424)+$(-27,638)+$(-10,829)"
+    },
+    {
+        "question": "What is change for basic earning per share between 2019 and 2018?",
+        "derivation": "1.58-1.33"
+    },
+    {
+        "question": "What is the increase in number of shares transferred to IEPF from 2011 to 2012?",
+        "derivation": "29,672-3,028 "
+    },
+    {
+        "question": "How many times is the number of shares transferred from FY 2012 that of 2011?",
+        "derivation": "29,672/3,028 "
+    },
+    {
+        "question": "What were the total debt obligations as a percentage of total contractual obligations?",
+        "derivation": "288.3/1,206.6"
+    },
+    {
+        "question": "What is the increase in the fair value of plan assets from 2018 to 2019?",
+        "derivation": "$90,365 - $84,718"
+    },
+    {
+        "question": "What is Ardent Mills\u2019 gross profit margin ratio for the fiscal year 2017?",
+        "derivation": "340.3/3,180.0 "
+    },
+    {
+        "question": "For fiscal year ended June 30, 2018, what is the percentage constitution of audit fees among the total fees?",
+        "derivation": "3,469/4,157"
+    },
+    {
+        "question": "What is the net difference in production start-up expense between 2019 and 2017?",
+        "derivation": "45,915 - 42,643 "
+    },
+    {
+        "question": "What is the amount of net sales derived in 2018?",
+        "derivation": "90,735 / 4% "
+    },
+    {
+        "question": "What is the Total Operating lease obligations expressed as a percentage of Total obligations?",
+        "derivation": "318,851/3,738,696"
+    },
+    {
+        "question": "What is the net total restructuring charges and payments for Severance & payroll related charges and lease abandonment charges?",
+        "derivation": "14,606-12,642+1,034-540"
+    },
+    {
+        "question": "What fraction of the total restructuring charges included stock-based compensation?",
+        "derivation": "2,632/14,765"
+    },
+    {
+        "question": "How much more was the balance at march 31, 2019 for Severance & payroll related charges than lease abandonment charges?",
+        "derivation": "1,089-494"
+    },
+    {
+        "question": "How much did the prepayments for media contents change by between 2018 year end and 2019 year end?",
+        "derivation": "15,731-13,652"
+    },
+    {
+        "question": "How much did the prepayments and prepaid expenses change by between 2018 year end and 2019 year end?",
+        "derivation": "8,353-7,532"
+    },
+    {
+        "question": "How much did the interest receivables between 2018 year end and 2019 year end change by?",
+        "derivation": "2,774-1,697"
+    },
+    {
+        "question": "How much do the top two expense categories in 2018 add up to? ",
+        "derivation": "1,087.3 + 755.5"
+    },
+    {
+        "question": "How much does amortization of developed technology account for total cost of revenue in 2018?",
+        "derivation": "15.5/285.9 "
+    },
+    {
+        "question": "What is the Current income tax expense for The Netherlands expressed as a percentage of Total income tax expense?",
+        "derivation": "-28,409/-53,650"
+    },
+    {
+        "question": "In 2019, what is the percentage constitution of the current provision for foreign taxes among the total current provision?",
+        "derivation": "196/303"
+    },
+    {
+        "question": "How many manufacturing facilities in North America are both Food Care and Product Care?",
+        "derivation": "(10+37)-44"
+    },
+    {
+        "question": "How many manufacturing facilities serve only Product Care in total? ",
+        "derivation": "107-36"
+    },
+    {
+        "question": "How much is the increase in primary working capital use of cash from 2018 to 2019?",
+        "derivation": "2,091.4-1,955.1"
+    },
+    {
+        "question": "How much did the net cash provided by operating activities gain from fiscal year ending 31 January, 2019 compared to that of fiscal year ending 31 January, 2017?",
+        "derivation": "(377.1-169.7)/169.7 "
+    },
+    {
+        "question": "What was the adjustment amount as a % of subscription net revenue?",
+        "derivation": "(16.6/1,802.3)"
+    },
+    {
+        "question": "What is other reported revenue as a % of total reported net revenue?",
+        "derivation": "(132.4/(1,802.3+635.1+132.4))"
+    },
+    {
+        "question": "How much is total cost of revenue as reported?",
+        "derivation": "216+54.4 "
+    },
+    {
+        "question": "What is the amount of money used for share repurchase in 2019 October?",
+        "derivation": "13,425*$78.21"
+    },
+    {
+        "question": "What is the % change in EBITDA margin from 2018 to 2019?",
+        "derivation": "27% - 29.2% "
+    },
+    {
+        "question": "What would be the change in balance at the beginning of the period from 2017 to 2018?",
+        "derivation": "$181,303 - $161,209 "
+    },
+    {
+        "question": "How much did the plan assets change from 2018 to 2019 for plans with accumulated benefit obligations in excess of plan assets?",
+        "derivation": "(70 - 112.1)/112.1 "
+    },
+    {
+        "question": "How much do the top 3 contractual obligation terms add up to in 2020?",
+        "derivation": "5,518 + 17,478+3,443"
+    },
+    {
+        "question": "What are the construction commitments in 2020 as a percentage of the total contractual obligations?",
+        "derivation": "3,443/32,505"
+    },
+    {
+        "question": "What is the price of outstanding shares as of August 29, 2019?",
+        "derivation": "12*25.94 "
+    },
+    {
+        "question": "What is the Total restructuring, transition and other costs for the fiscal years 2019, 2018, 2017?",
+        "derivation": "241+410+273"
+    },
+    {
+        "question": "What is the gross Deductible temporary differences expressed as a percentage of gross Unrecognized deferred tax assets?",
+        "derivation": " 20,642 / 35,863 "
+    },
+    {
+        "question": "What is the tax effect of Deductible temporary differences expressed as a ratio of gross Deductible temporary differences?",
+        "derivation": "4,842/20,642"
+    },
+    {
+        "question": "What is the Number of shares held, end of year expressed as a percentage of Number of common stock outstanding, end of year?",
+        "derivation": "77,109,722/154,512,813"
+    },
+    {
+        "question": "What is the number of shares issued, end of year excluding 1,478 restricted stock shares issued and (5,024) restricted stock shares for 2019?",
+        "derivation": "231,622,535-(1,478-(-5,024))"
+    },
+    {
+        "question": "How much do the top 3 base salaries in 2019 add up to?",
+        "derivation": "($800,000+$500,000+$435,000)"
+    },
+    {
+        "question": "What was the gross profit margin in 2018?",
+        "derivation": "7,835,009/9,030,008"
+    },
+    {
+        "question": "What is the overall proportion of litigation and amortization expense over the total operating expense in 2019?",
+        "derivation": "(1,656+88,075)/181,804 "
+    },
+    {
+        "question": "What is the cost of goods sold (COGS) in 2017?",
+        "derivation": "4,607.5 - 2,864.8 "
+    },
+    {
+        "question": "What is the interest coverage ratio in 2019?",
+        "derivation": "472/391"
+    },
+    {
+        "question": "For how many years has Mr Sciammas served as the company's Senior Vice President of Worldwide Sales and Marketing?",
+        "derivation": "2020-2007"
+    },
+    {
+        "question": "What is the collective number of years that Mr Xiao and Mr Sciammas have been working for at MPS?",
+        "derivation": "2020-2001 + 2020-1999"
+    },
+    {
+        "question": "What is the income tax expense for Federal for year ended March 29, 2019 expressed as a percentage of total income tax expenses?",
+        "derivation": "73/162"
+    },
+    {
+        "question": "In fiscal year 2019, what is the percentage constitution of employee benefits among the total non-current provisions?",
+        "derivation": "3,323/6,082"
+    },
+    {
+        "question": "What are the total net derivative losses allocated to Foodservice, Pinnacle Foods, as well as Commercial in 2019?",
+        "derivation": "(-0.6)+(-0.8) "
+    },
+    {
+        "question": "What is the Balance payable as at June 30, 2019 for Workplace reduction expressed as a percentage of total Balance payable?",
+        "derivation": "1,819/7,107"
+    },
+    {
+        "question": "For Accruals and adjustments, What is difference between Workplace reduction & Facility costs?",
+        "derivation": "12,460-15,858"
+    },
+    {
+        "question": "What is the 2019 accumulated depreciation and amortization expense excluding the property and equipment depreciation and amortization expense?",
+        "derivation": "-511.7+86.5"
+    },
+    {
+        "question": "What is the 2018 accumulated depreciation and amortization expense excluding the property and equipment depreciation and amortization expense?",
+        "derivation": "-440.9+97.4"
+    },
+    {
+        "question": "What is the CFO's remuneration as a percentage of the total given to them both?",
+        "derivation": "413.07/553.22 "
+    },
+    {
+        "question": "What is the company's total loss before income taxes between 2017 to 2019?",
+        "derivation": "$(16,412) + $(26,535) + $(9,545)"
+    },
+    {
+        "question": "What is the company's change in foreign income between 2018 and 2019?",
+        "derivation": "(3,933 - 3,123)/3,123 "
+    },
+    {
+        "question": "What is the company's total domestic loss between 2017 to 2019?",
+        "derivation": "$(20,345) + $(29,658) + $(13,752) "
+    },
+    {
+        "question": "What is the increase in net sales from 2018 to 2019?",
+        "derivation": "112,396 - 107,705"
+    },
+    {
+        "question": "What is the Return on Assets in 2019?",
+        "derivation": "9,490 / 128,470"
+    },
+    {
+        "question": "How much more shares acquired on vesting did Gregory S. Clark have over  Nicholas R. Noviello?",
+        "derivation": "342,338-111,855"
+    },
+    {
+        "question": "By how much less did the company spend for stock-based compensation in 2019 compared to 2018?",
+        "derivation": "180 -172 "
+    },
+    {
+        "question": "For Treasury locks in 2019, What is the Net of tax expressed as a percentage of Total pre-tax amount?",
+        "derivation": "1.1/1.7"
+    },
+    {
+        "question": "What is Eric Lerner's threshold estimated future payouts under the 2019 NEO plan as a percentage of Thomas Clark's threshold payouts?",
+        "derivation": "6,773/5,062 "
+    },
+    {
+        "question": "How much difference in the total operating income in 2018 compared to in 2017?",
+        "derivation": "15,243 - 6,232 "
+    },
+    {
+        "question": "What is the % of the total group current financial assets that is attributable to the company? ",
+        "derivation": "0.7/155.1"
+    },
+    {
+        "question": "How many % of the company's derivative financial liabilities are being disclosed as non-current?",
+        "derivation": "191.8/192.3"
+    },
+    {
+        "question": "What is the % change in carrying amount from 2017 to 2019?",
+        "derivation": " (1,701.6 - 1,581.8) / 1,581.8 * 100"
+    },
+    {
+        "question": "What is the income tax (benefit) provision related to continuing operations in 2017 and 2018?",
+        "derivation": "$26.7+$9.4"
+    },
+    {
+        "question": "What were the balance of total assets at February 28, 2018?",
+        "derivation": "(12,000+31,581+18,829)"
+    },
+    {
+        "question": "What were the balance of total assets at March 1, 2018?",
+        "derivation": "(13,891+32,113+21,974)"
+    },
+    {
+        "question": "For fair value, what is the percentage constitution of customer relationships among the total intangible assets subject to amortization?",
+        "derivation": "16,900/52,900"
+    },
+    {
+        "question": "What is the Average annual total costs for both Fiscal years?",
+        "derivation": "(148,977+111,267)/2"
+    },
+    {
+        "question": "As of June 30, 2019, what is the Investment cost expressed as a percentage of total costs?",
+        "derivation": "67,002/148,977"
+    },
+    {
+        "question": "What is the overall increase\uff0cnet in opening and closing balances from March 2018 to March 2019?",
+        "derivation": "9,351+5,366+2,836-2,674+14,596"
+    },
+    {
+        "question": "How many times more in current unbilled receivables than long-term unbilled receivables did the company have in its opening balance?",
+        "derivation": "9,900/4,380"
+    },
+    {
+        "question": "What is non-current lease liability as a percentage of Total lease liability?",
+        "derivation": "6,510.4/7,004.9"
+    },
+    {
+        "question": "What is the Total change in sales and marketing expenses from fiscal year 2017 to 2019?",
+        "derivation": "84,687-11,106"
+    },
+    {
+        "question": "What portion of term loan and notes, including interest have payment due more than 5 years?",
+        "derivation": "1,016.3/4,373.3 "
+    },
+    {
+        "question": "What would be the accumulated deficit adjustment without the  $179.4 million adjustment for adopting ASC Topic 606 and 340-40 on the opening balance as of February 1, 2018?",
+        "derivation": "189.5-179.4"
+    },
+    {
+        "question": "What is the reported current ratio? ",
+        "derivation": "(474.3+192.1+65.3+337.8)/(1,763.3+142.3+328.1+21.5+79.8)"
+    },
+    {
+        "question": "How much did the deferred revenue change due to the adoption of ASC 606 and 340-40?",
+        "derivation": "140.6/1,763.3 "
+    },
+    {
+        "question": "What is the price for service-based Restricted Stock Awards as of August 29, 2019?",
+        "derivation": "14*34.72 "
+    },
+    {
+        "question": "What  was the EBITDA margin in 2019?",
+        "derivation": "505 / 4,735"
+    },
+    {
+        "question": "How much did all three companies account for in the company's net revenue in 2017?",
+        "derivation": "16+15+12"
+    },
+    {
+        "question": "How much of scientific equipment is being decapitalized from 2018 to 2019? ",
+        "derivation": "598 - 597 "
+    },
+    {
+        "question": "How much assets were decapitalized from 2018 to 2019?",
+        "derivation": "2,512 - 2,509 "
+    },
+    {
+        "question": "How much is the difference between Unguaranteed and Guaranteed residual value of Investment in Sales-Type and Direct Financing Leases?",
+        "derivation": "589-85 "
+    },
+    {
+        "question": "Based on fair value, what is the difference in value between U.S. treasury securities and agency securities?",
+        "derivation": "52,700-22,015"
+    },
+    {
+        "question": "Based on amortized cost, what is the percentage constitution of Agency securities among the total investments?",
+        "derivation": "22,097/327,640"
+    },
+    {
+        "question": "Based on fair value, what is the percentage constitution of corporate debt securities among the total investments?",
+        "derivation": "157,883/326,794"
+    },
+    {
+        "question": "What was total gross profit in 2017?",
+        "derivation": "0.6/1.0*100"
+    },
+    {
+        "question": "What was total gross profit in 2018?",
+        "derivation": "0.6/1.0*100+0.6"
+    },
+    {
+        "question": "How much do the top 3 assets add up to in 2018?",
+        "derivation": "(5,641+3,814+3,523)"
+    },
+    {
+        "question": "What was accrued expenses as revised as a percentage of total liabilities and stockholders' equity?",
+        "derivation": "(70,065/818,226)"
+    },
+    {
+        "question": "At June 30, 2019, what is the Euro U.S. dollar equivalent expressed as a percentage of Total cash and cash equivalents denominated in foreign currencies?",
+        "derivation": "120,417/328,804"
+    },
+    {
+        "question": "What is the Total cash and cash equivalents denominated in foreign currencies expressed as a percentage of Total cash and cash equivalents at June 30, 2019?",
+        "derivation": "328,804/941,009"
+    },
+    {
+        "question": "How many diluted shares were there in FY19 ?",
+        "derivation": "(31 millions)/0.05"
+    },
+    {
+        "question": "What is Net income expressed as a percentage of Net revenues for FY19?",
+        "derivation": "31/4,731"
+    },
+    {
+        "question": "Suppose the approved loan amount for Tyson Foods is $12 million. What is the Facility Fee Rate payable?",
+        "derivation": "0.125% * 12"
+    },
+    {
+        "question": "What is the nominal difference for Sales between F19 and F18?",
+        "derivation": "39,568 - 37,589 "
+    },
+    {
+        "question": "What are the proportion of currency translation losses and derivative adjustments over accumulated other comprehensive loss in 2017?",
+        "derivation": "(-98.6+(-1.1))/(-212.9) "
+    },
+    {
+        "question": "How much is the 2019 bonds and other liabilities, excluding the interest on foreign exchange derivatives?",
+        "derivation": "1,567-305 "
+    },
+    {
+        "question": "How much is the 2018 bonds and other liabilities, excluding the interest on foreign exchange derivatives?",
+        "derivation": "885-187"
+    },
+    {
+        "question": "How much is the 2017 bonds and other liabilities, excluding the interest on foreign exchange derivatives?",
+        "derivation": "1,243-272"
+    },
+    {
+        "question": "How much of the total plan assets comprises cash in 2019?",
+        "derivation": "(4.3/80.8)"
+    },
+    {
+        "question": "How did the company's Denominator for diluted earnings per share change from 2018 to 2019?",
+        "derivation": "(18,525 - 21,017)/21,017"
+    },
+    {
+        "question": "How much more stock options and awards did the company give out in 2019 compared to 2018?",
+        "derivation": "1,101-296"
+    },
+    {
+        "question": "What is the dividend payout ration in year ending June 2018?",
+        "derivation": "(48,694 * 0.351) / 51,279"
+    },
+    {
+        "question": "What is the increase in net income (loss) from 2018 to 2019?",
+        "derivation": "54,229 - 125,932"
+    },
+    {
+        "question": "What is the increase / decrease in the number of dilutive potential common shares from 2018 to 2019?",
+        "derivation": "48,589 - 48,468"
+    },
+    {
+        "question": "Based on fair value, what is the percentage constitution of U.S. treasury securities among the total debt investments?",
+        "derivation": "101,759/448,706"
+    },
+    {
+        "question": "Based on amortized cost, what is the percentage constitution of total equity investments among the total investments?",
+        "derivation": "23,270/471,482"
+    },
+    {
+        "question": "What was the increase ./ (decrease) in the cost of sales from 2018 to 2019?",
+        "derivation": "22 - 23"
+    },
+    {
+        "question": "In year ended 2019, what is the Audit fees expressed as a percentage of total fees?",
+        "derivation": "4,598/4,746"
+    },
+    {
+        "question": "What is the Tax fees for fiscal year 2019 expressed as a percentage of total fees?",
+        "derivation": "108/4,746"
+    },
+    {
+        "question": "What is the current ratio of the parent entity in 2019?",
+        "derivation": "4,297/92,352"
+    },
+    {
+        "question": "What is the debts to assets ratio of the parent entity in 2018?",
+        "derivation": "93,067/182,679"
+    },
+    {
+        "question": "For 2019, what is the  Research and development expenses and  Capitalization of development expenses expressed as a percentage of total research and development expenses?",
+        "derivation": "(150.7+(-60.2))/110.8"
+    },
+    {
+        "question": "How much more Net actuarial gain is there in 2019 than 2018?",
+        "derivation": "-0.6-0.4"
+    },
+    {
+        "question": "What is Benefit obligation at end of period expressed as a percentage of Benefit obligation at beginning of period for 2019?",
+        "derivation": "43.5/46.4"
+    },
+    {
+        "question": "What percentage increase / (decrease) is Free cash flow in continuing operations compared to discontinued operations?",
+        "derivation": "- (5,872 / -27 - 1)"
+    },
+    {
+        "question": "In 2019, what is the percentage constitution of finished goods among the total inventory amount?",
+        "derivation": "2,860/23,356"
+    },
+    {
+        "question": "How much did the deferred rent decrease from 2018 to 2019?",
+        "derivation": "0 - 27,249 "
+    },
+    {
+        "question": "What would be the change in Research and development expense between 2017 and 2018?",
+        "derivation": "49-59"
+    },
+    {
+        "question": "As at 31 March 2017, options in respect of how many ordinary shares in HOOQ were outstanding? ",
+        "derivation": "43.3 - 9.6"
+    },
+    {
+        "question": "When does the term of the option granted on 31 January 2019 end?",
+        "derivation": "31 January 2019 + 10 years"
+    },
+    {
+        "question": "What is the amount of net sales in 2019?",
+        "derivation": "205,471 / 6.7% "
+    },
+    {
+        "question": "What is the net difference in selling, general and administrative expense between 2019 and 2017?",
+        "derivation": "205,471 - 202,699 "
+    },
+    {
+        "question": "About how many common shares were there in total for all years?",
+        "derivation": "321.7/0.64"
+    },
+    {
+        "question": "Including the declared quarterly cash dividend on February 13, 2020, what is the Total Cash Dividends Paid as of February 21, 2020 in dollars?",
+        "derivation": "321.7+24.8"
+    },
+    {
+        "question": "What it the increase / (decrease) in revenue from 2018 to 2019?",
+        "derivation": "8,916 - 8,821"
+    },
+    {
+        "question": "How much more in grant date value does Nicholas R. Noviello have compared to Amy L. Cappellanti-Wolf?",
+        "derivation": "2,106,785-1,683,254"
+    },
+    {
+        "question": "What is the increase in net other tangible assets from 2018 to 2019?",
+        "derivation": "280.8-55.2"
+    },
+    {
+        "question": "How much did developed technologies, at cost gain in 2019 over 2018?",
+        "derivation": "(670.2 -578.5)/578.5 "
+    },
+    {
+        "question": "How much is the percentage decrease in total number of shares purchased from March 2019 to April 2019?",
+        "derivation": "(29.1-58.0)/58.0 "
+    },
+    {
+        "question": "What was the Average Price Paid per Share from March 2019 to April 2019?",
+        "derivation": "(52.93*58.0+54.41*29.1)/(58.0+29.1) "
+    },
+    {
+        "question": "What was the Long-term deferred tax liability as a ratio of Accrued liabilities?",
+        "derivation": "706.1/787.3"
+    },
+    {
+        "question": "What was the fair value of debt investments that had maturities within 1 year as a percentage of the total?",
+        "derivation": "6,324/21,660"
+    },
+    {
+        "question": "What was risk-free interest rate in 2017 as a percentage of risk-free interest rate in 2018?",
+        "derivation": "1.9/2.7"
+    },
+    {
+        "question": "How much did gross margin change from fiscal year ending January 31, 2019 compared to the prior year?",
+        "derivation": "89%-85% "
+    },
+    {
+        "question": "What were the commitments that were less than 1 year as a percentage of total purchase commitments in 2019?",
+        "derivation": "4,239/4,967"
+    },
+    {
+        "question": "What is the accounts receivable, net increase / (decrease) from 2018 to 2019?",
+        "derivation": "120,016 - 133,136"
+    },
+    {
+        "question": "What is the % change in the foreign income from 2017 to 2018, in billions?",
+        "derivation": "(9,058-8,006)/8,006"
+    },
+    {
+        "question": "How much do the top 3 components add up to?",
+        "derivation": "(19,269+19,189+6,208)"
+    },
+    {
+        "question": "How much would operating income in 2015 have been if there were no goodwill and impairment charges in 2015?",
+        "derivation": "10.0 billion + 18,161 million "
+    },
+    {
+        "question": "In 2019, what is the percentage constitution of Deloitte Touche Tohmatsu Australia's remuneration in the total auditors' remuneration?",
+        "derivation": "3,618/4,162 "
+    },
+    {
+        "question": "What would be the change in Allowance for credit loss\u2014loan receivables between 2018 and 2019?",
+        "derivation": "71-60"
+    },
+    {
+        "question": "For franchise restaurants, what is the percentage increase of end of period total from 2015 to 2016?",
+        "derivation": "(1,838 - 1,836)/ 1,836 "
+    },
+    {
+        "question": "What is the financial equity in 2018?",
+        "derivation": "285,907+173,450-80,640"
+    },
+    {
+        "question": "How much is the change in transaction costs from 2018 to 2019?",
+        "derivation": "85,702-69,976"
+    },
+    {
+        "question": "How much is the change in Employee benefits expenses from 2018 to 2019?",
+        "derivation": "53,123-42,153"
+    },
+    {
+        "question": "How much is the change in Promotion and advertising expenses from 2018 to 2019?",
+        "derivation": "16,405-19,806"
+    },
+    {
+        "question": "How much was the total revenue for cloud and license business and services business in 2019?",
+        "derivation": "3,240+32,582 "
+    },
+    {
+        "question": "What is the amount of net sales derived in 2017?",
+        "derivation": "88,573 / 3.0% "
+    },
+    {
+        "question": "What is the net difference in research and development expense between 2019 and 2017?",
+        "derivation": "96,611 - 88,573 "
+    },
+    {
+        "question": "How much more in Director compensation did Frank E. Dangeard have over Susan P. Barsamian?",
+        "derivation": "360,000-76,593"
+    },
+    {
+        "question": "How much more in Director compensation did Peter A. Feld have over Dale L. Fuller?",
+        "derivation": "190,179-182,142"
+    },
+    {
+        "question": "What is the amount of goodwill under Business as a ratio of the Total amount as of December 31, 2018?",
+        "derivation": "20,447/28,031"
+    },
+    {
+        "question": "What is the low bid price in the second quarter of 2019 as a percentage of the high bid price in the same period?",
+        "derivation": "1.5/2 "
+    },
+    {
+        "question": "What is the increase in Goodwill and intangible assets from 2018 to 2019?",
+        "derivation": "31,029 - 29,493"
+    },
+    {
+        "question": "What is the Current Ratio in 2019?",
+        "derivation": "16,430 / 20,978"
+    },
+    {
+        "question": "How much did the stock-based compensation expense in the general and administrative operations decreased from 2018 to 2019?",
+        "derivation": "165 - 117 "
+    },
+    {
+        "question": "How much percent did the total share-based compensation decreased from 2018 to 2019?",
+        "derivation": "(230 - 138) / 138 "
+    },
+    {
+        "question": "What was total equity as a percentage of total liabilities and equity as reported in 2018?",
+        "derivation": "1,786.5/3,653.4"
+    },
+    {
+        "question": "What is the Total contractual cash obligations for years 2020-2024 inclusive?",
+        "derivation": "388.7+1,353.0+1,742.4"
+    },
+    {
+        "question": "What is the Total contractual cash obligations for year 2020 expressed as a proportion of Total contractual cash obligations for all years?",
+        "derivation": "388.7/5,120.1"
+    },
+    {
+        "question": "What is the increase in cash provided by operating activities from 2018 to 2019?",
+        "derivation": "174,201 - (-326,809) "
+    },
+    {
+        "question": "What  was the EBITDA margin in 2019?",
+        "derivation": "2,423 / 5,075"
+    },
+    {
+        "question": "What is the Balance at beginning of period expressed as a percentage of Balance at end of period for year 2019?",
+        "derivation": "150.1/180.2"
+    },
+    {
+        "question": "What is percentage growth of Balance at end of period for year 2018 to 2019?",
+        "derivation": "(180.2-150.1)/150.1"
+    },
+    {
+        "question": "What were the changes in Additions from acquisition between 2018 and 2019?",
+        "derivation": "1,884-416"
+    },
+    {
+        "question": "How much did the foreign exchange rate changes impact percent change in revenue?",
+        "derivation": "25%-24% "
+    },
+    {
+        "question": "How much did the foreign exchange rate changes impact percent change in total spend?",
+        "derivation": "1%-1% "
+    },
+    {
+        "question": "What is the amount of marketable investment securities that will mature within one year by 2020?",
+        "derivation": "33%*17,313"
+    },
+    {
+        "question": "What is the investments classified as cash equivalents as a percentage of the total investments in 2019?",
+        "derivation": "(10,629/27,942)"
+    },
+    {
+        "question": "What is the growth rate of Non-U.S. GAAP Total Company Adjusted EBITDA from continuing operations from year 2018 to year 2019?",
+        "derivation": "(964.8-889.5)/889.5"
+    },
+    {
+        "question": "What it the increase / (decrease) in revenue from 2018 to 2019?",
+        "derivation": "(15,225 - 14,445)"
+    },
+    {
+        "question": "What's the total revenue in 2019?",
+        "derivation": "712,530/45.1 %"
+    },
+    {
+        "question": "How much does goodwill account for the total?",
+        "derivation": "867/1,124.4"
+    },
+    {
+        "question": "What was the 2019 profit margin?",
+        "derivation": "95,888/377,289"
+    },
+    {
+        "question": "What was the 2018 profit margin?",
+        "derivation": "79,984/312,694"
+    },
+    {
+        "question": "For 2019, what percentage of revenue is cost of revenue?",
+        "derivation": "209,756/377,289"
+    },
+    {
+        "question": "What was the % change in the free cash flow from 2017 to 2018?",
+        "derivation": "(12,201-(-3,418))/-3,418"
+    },
+    {
+        "question": "What was the allowance for credit loss for financed service contracts as a percentage of total allowance for credit loss in 2018?",
+        "derivation": "10/205"
+    },
+    {
+        "question": "How much were the top 3 components of property and equipment as a % of the total at cost, property and equipment for 2019?",
+        "derivation": "(26,288+33,823+5,316)/71,807"
+    },
+    {
+        "question": "How much did net interest and investment expense increase over fiscal year ending January 31, 2019?",
+        "derivation": "(52.1-34.5)/34.5 "
+    },
+    {
+        "question": "What is Total Remaining Performance Obligations for Enterprise Security expressed as a percentage of total obligations?",
+        "derivation": "2,059/2,608"
+    },
+    {
+        "question": "What is the amount of notes for fiscal years 2021-2024?",
+        "derivation": "541.7+422.3 "
+    },
+    {
+        "question": "How much does contractual obligations from 2024 thereafter account for the total contractual obligations?",
+        "derivation": "1,062.8/3,020.8 "
+    },
+    {
+        "question": "What is the company's total accrued benefits as at December 31, 2018 and 2019?",
+        "derivation": "32,235 +32,074 "
+    },
+    {
+        "question": "What is  Amortization of intangible assets expressed as a percentage of  Total segment operating income for fiscal year 2019?",
+        "derivation": "443/1,414"
+    },
+    {
+        "question": "What is the  Total consolidated operating income (loss) from continuing operations expressed as a percentage of  Total segment operating income for fiscal year 2019?",
+        "derivation": "380/1,414"
+    },
+    {
+        "question": "How many shares did the company purchase prior to October 1, 2019 for 2019?",
+        "derivation": "335,372 - 164,817"
+    },
+    {
+        "question": "What % of total shares purchased during year ended December 31, 2019 were shares purchased during October 1, 2019 to December 31, 2019?",
+        "derivation": "164,817/335,372"
+    },
+    {
+        "question": "What % of total shares purchased since the inception of the Share Repurchase Program were shares purchased during year ended December 31, 2019?",
+        "derivation": "335,372/8,489,770"
+    },
+    {
+        "question": "How many years is the state tax credit carryforward?",
+        "derivation": "2029 - 2020 "
+    },
+    {
+        "question": "What is the increase in the gross profit in 2019 from 1st quarter to 2nd quarter?",
+        "derivation": "70,535 - 57,128"
+    },
+    {
+        "question": "Excluding shareholding of 100001 shares and above, what is the percentage to capital of the rest? ",
+        "derivation": "100-96 "
+    },
+    {
+        "question": "How many accounts hold 1000 or lesser number of shares?",
+        "derivation": "528,148+185,200+20,749 "
+    },
+    {
+        "question": "What was the absolute change in the change in salary for the group chief executive in 2019 from 2018? ",
+        "derivation": "7.7%-2.7%"
+    },
+    {
+        "question": "What was the amount of capital redemption reserve as a percentage of the total other reserves on 1st January 2019?",
+        "derivation": "1.8/22.2"
+    },
+    {
+        "question": "For 2019. what is the Cost of License Revenues expressed as a percentage of GAAP-based License Gross Profit? ",
+        "derivation": "14,347/413,745"
+    },
+    {
+        "question": "What is the gross profit ratio for the year ended December 31, 2018?",
+        "derivation": "12,264/70,965"
+    },
+    {
+        "question": "For fiscal year ended 2019, what is the difference in subscription revenue and maintenance revenue?",
+        "derivation": "633,950-394,526"
+    },
+    {
+        "question": "For fiscal year ended 2018, what is the percentage constitution of perpetual license among the total revenue?",
+        "derivation": "83,171/880,978"
+    },
+    {
+        "question": "What was the operating income balance without the adoption of ASU 2014-09 as a ratio of the amount as reported?",
+        "derivation": "595,105/701,356"
+    },
+    {
+        "question": "What is the capital purchase obligations expressed as a percentage of the contractual obligations that is due in less than 1 year?",
+        "derivation": "9,300/16,728"
+    },
+    {
+        "question": "What is the Goodwill for Blue Coat expressed as a percentage of Total purchase price?",
+        "derivation": "4,084/4,673"
+    },
+    {
+        "question": "What is the Goodwill for LifeLock expressed as a percentage of Total purchase price?",
+        "derivation": "1,397/2,283"
+    },
+    {
+        "question": "What was the Federal NOL as a ratio of Foreign NOL in the period 2030 to 2034?",
+        "derivation": "7.0/19.6"
+    },
+    {
+        "question": "How much did R&D tax credits from the Federal increased from 2018 to 2019?",
+        "derivation": "1,207 - 1,184 "
+    },
+    {
+        "question": "What is the increase in Net deferred tax assets from 2018 to 2019?",
+        "derivation": "0 - 0 "
+    },
+    {
+        "question": "What was the overall change in Net investment gains  on investments held in rabbi trust in 2019 from 2017?",
+        "derivation": "2,379-1,619"
+    },
+    {
+        "question": "How much has current deferred revenue changed from January 1, 2018 to December 31, 2018?",
+        "derivation": "39,180-30,694"
+    },
+    {
+        "question": "How much has long-term deferred revenue changed from January 1, 2018 to December 31, 2018?",
+        "derivation": "1,881-1,352"
+    },
+    {
+        "question": "What is the net profit margin in 2017?",
+        "derivation": "93.9/1,407.9 "
+    },
+    {
+        "question": "How much is the 2019 other payables included within current liabilities excluding the amount payable in relation to the share buyback?",
+        "derivation": "1,410-823"
+    },
+    {
+        "question": "What is the Total obligations of July 1, 2024 and beyond expressed as a percentage of Total obligations?",
+        "derivation": "2,003,946/3,738,696"
+    },
+    {
+        "question": "For July 1, 2024 and beyond, what is Long-term debt obligations expressed as a percentage of Total obligations?",
+        "derivation": "1,923,783/2,003,946"
+    },
+    {
+        "question": "What were the lease costs in 2017 as a percentage of the total balance in 2017?",
+        "derivation": "1,665/38,388"
+    },
+    {
+        "question": "In 2019, what is the percentage constitution of the revenue from FEI-NY among the total consolidated revenues?",
+        "derivation": "38,096/49,509"
+    },
+    {
+        "question": "What was SaaS and license revenue as a percentage of total revenue in 2019?",
+        "derivation": "337,375/502,363"
+    },
+    {
+        "question": "What is the increase(decrease) in Net cash provided by operating activities as a percentage of Increase (Decrease) of Net cash used in investing activities?",
+        "derivation": "41/208"
+    },
+    {
+        "question": "What is the increase(decrease) in Net cash provided by operating activities as a percentage of Increase (Decrease) in Net cash used in financing activities?",
+        "derivation": "41/1,783"
+    },
+    {
+        "question": "How much does operating leases account for total contractual cash obligations for period of less than 1 year?",
+        "derivation": "$688/910 "
+    },
+    {
+        "question": "What was the amortized cost that was due in one year or less as a ratio of the fair value for the same period?",
+        "derivation": "591/589"
+    },
+    {
+        "question": "What was the increase in sales and marketing expenses from 2017 to 2019?",
+        "derivation": "80 + 105 "
+    },
+    {
+        "question": "What is the Number of shares available, end of year expressed as a percentage of Number of shares available, beginning of year for 2019? ",
+        "derivation": "4,048,509/4,489,347"
+    },
+    {
+        "question": "What are the accelerated vesting of Robert Dooley's unvested restricted stock units for termination by Systemax without \"cause\" or termination due to death? ",
+        "derivation": "15,000 + 7,500 "
+    },
+    {
+        "question": "In fiscal year 2019, what is the percentage constitution of revenues from FEI-NY among the total revenue?",
+        "derivation": "38,096/49,509"
+    },
+    {
+        "question": "In fiscal year 2018, what is the percentage constitution of revenues from FEI-Zyfer among the total revenue?",
+        "derivation": "15,272/39,407"
+    },
+    {
+        "question": "For year ended march 29, 2019, what is Total Enterprise Security expressed as a percentage of Total net revenues?",
+        "derivation": "2,323/4,731"
+    },
+    {
+        "question": "For year ended march 29, 2019, what is the difference between  Total Consumer Cyber Safety and Total Enterprise Security?",
+        "derivation": "2,408-2,323"
+    },
+    {
+        "question": "What is the number of units granted for 2019 expressed as a percentage of all units granted?",
+        "derivation": "70,543/(70,543+56,829+100,958)"
+    },
+    {
+        "question": "What is the Balance payable as at June 30, 2019 for Workforce reduction expressed as a percentage of total Balance payable as at June 30, 2019? ",
+        "derivation": "150/636"
+    },
+    {
+        "question": "How much was the increase in prepaid expenses from 2018 to 2019?",
+        "derivation": "137,927-90,981 "
+    },
+    {
+        "question": "How much capital expenditure was incurred on the Singapore project prior to FY19?",
+        "derivation": "147 - 80.1"
+    },
+    {
+        "question": "What is the overall proportion of employee stock options and employee stock purchases over total stock-based compensation expense in 2019?",
+        "derivation": "(0.2+2.3)/31.6 "
+    },
+    {
+        "question": "What was the % change in interest and dividends income from 2018 to 2019?",
+        "derivation": "(2,762-2,214)/2,214"
+    },
+    {
+        "question": "What percentage is the total revenue is from Hardware and services in year 2019?",
+        "derivation": "13,184 / 888,190"
+    },
+    {
+        "question": "How many percent did the revenue increase from the year 2017 to 2018?",
+        "derivation": "(716,994 - 519,681) /519,681"
+    },
+    {
+        "question": "How much did Subscription service revenue increase from the year 2018 to 2019?",
+        "derivation": "849,267 - 681,138"
+    },
+    {
+        "question": "What is the number of outstanding options whose exercise price are between $1.50 to $6.40?",
+        "derivation": "32,913 + 209,126 "
+    },
+    {
+        "question": "What would be the number of outstanding options whose exercise price are between $8.04 to $15.06?",
+        "derivation": "498,869 + 2,227,421 "
+    },
+    {
+        "question": "What is the number of outstanding options with an exercise price of between 12.20 to 15.06 as a percentage of the total number of outstanding options?",
+        "derivation": "2,227,421/5,884,742 "
+    },
+    {
+        "question": "What is Mark J. Barrenechea's Total target value expressed as percentage of total target values for all Named Executive Officer?",
+        "derivation": "5,630,000/(5,630,000+1,000,000+1,100,000+1,000,000+437,500)"
+    },
+    {
+        "question": "What is Simon Harrison's Total target value expressed as percentage of total target values for all Named Executive Officer?",
+        "derivation": "437,500/(5,630,000+1,000,000+1,100,000+1,000,000+437,500)"
+    },
+    {
+        "question": "What it the increase / (decrease) in revenue from 2018 to 2019?",
+        "derivation": "14,517 - 13,425"
+    },
+    {
+        "question": "What are the total liabilities from both A2iA and ICAR acquisitions?",
+        "derivation": "2,688+7,503+7+1,652+1,602+828 "
+    },
+    {
+        "question": "What is the net gain/loss for U.S. debt?",
+        "derivation": "176 - 12 "
+    },
+    {
+        "question": "In fiscal year ended June 30, 2018, what is the percentage constitution of the non-current operating assets in the United States among the total non-current operating assets owned by the Group?",
+        "derivation": "412,112/428,842"
+    },
+    {
+        "question": "What is the payments due for Operating leases, including imputed interest from years 1 to 3?",
+        "derivation": "3,519+5,102"
+    },
+    {
+        "question": "How much more in total contractual obligations does the company expect to spend in Year 1 than Years 4 & 5?",
+        "derivation": " 4,942-4,192"
+    },
+    {
+        "question": "What is net earnings attributable to common shareholders as a ratio of the adjusted net earnings in 2018?",
+        "derivation": "2,785/3,151"
+    },
+    {
+        "question": "What were the total debt obligations as a percentage of the total contractual obligations?",
+        "derivation": "305,927/554,834"
+    },
+    {
+        "question": "What is the asset to liability ratio As of December 31, 2018? ",
+        "derivation": "51.2/157.4"
+    },
+    {
+        "question": "What is the nominal difference for the fees paid in F19 and F20 to a member in the board?",
+        "derivation": "254,990 - 254,990 "
+    },
+    {
+        "question": "What was the net sales to customers in North America who are not in the U.S. in 2019?",
+        "derivation": "2,828.1-2,501.6"
+    },
+    {
+        "question": "What is the growth rate of total net sales for 2018 to 2019?",
+        "derivation": "(4,791.1-4,732.7)/4,732.7"
+    },
+    {
+        "question": "What is of Total long-lived assets for North America expressed as a percentage to all other regions in 2019?",
+        "derivation": "919.3/(1,563.6-919.3)"
+    },
+    {
+        "question": "What is the net earnings per worker in 2019?",
+        "derivation": "74.6/13,000"
+    },
+    {
+        "question": "How much are the expenses in 2019?",
+        "derivation": "3,941.5-74.6"
+    },
+    {
+        "question": "How many outstanding shares does the company has in 2019?",
+        "derivation": "74.6/0.6"
+    },
+    {
+        "question": "What is the U.S. and international net periodic benefit cost included in cost of sales expressed as a percentage of U.S. and international net periodic benefit cost included in selling, general and administrative expenses of 2019?",
+        "derivation": "1.1/2.8"
+    },
+    {
+        "question": "What is the nominal difference of the total group basic EPS (cents) before significant items and after significant items?",
+        "derivation": "206.2-142.8 "
+    },
+    {
+        "question": "What is the fair value of the DSUs issued in 2019?",
+        "derivation": "84,588*$59"
+    },
+    {
+        "question": "How much is the 2019 software development costs excluding the internal software development costs of $12,666?",
+        "derivation": "24,963-12,666"
+    },
+    {
+        "question": "By how much did net income change from 2018 to 2019?",
+        "derivation": "11,083-3,587 "
+    },
+    {
+        "question": "In 2019, how much more was the basic earnings per share than the diluted earnings per share?",
+        "derivation": "3.05-2.97 "
+    },
+    {
+        "question": "What is the % change in the total revenue from 2018 to 2019?",
+        "derivation": "(($2,632.6-$2,099.2)/$2,099.2)"
+    },
+    {
+        "question": "How much is the change in VAS revenue between the fourth quarter of 2018 and 2019?",
+        "derivation": "52,308-43,651"
+    },
+    {
+        "question": "How much is the change in FinTech and Business Services revenue between the fourth quarter of 2018 and 2019?",
+        "derivation": "29,920-21,597"
+    },
+    {
+        "question": "How much is the change in Online Advertising revenue between the fourth quarter of 2018 and 2019?",
+        "derivation": "20,225-17,033"
+    },
+    {
+        "question": "What were the total operating costs for all 3 years?",
+        "derivation": "11.3 + 9.9 + 11.3"
+    },
+    {
+        "question": "What was the increase in machinery and equipment from 2018 to 2019?",
+        "derivation": "2,436,997 - 1,826,434 "
+    },
+    {
+        "question": "What is the Value Realized on Vesting of Mark J. Barrenechea expressed as a percentage of total Value Realized on Vesting?",
+        "derivation": "7,625,905/(7,625,905+1,263,646+1,486,870+346,808)"
+    },
+    {
+        "question": "What is the Total Value Realized on Exercise?",
+        "derivation": "2,801,023+2,592,411+714,495"
+    },
+    {
+        "question": "What was domestic deferred tax assets as a percentage of the total deferred tax assets?",
+        "derivation": "$46,266/$56,177"
+    },
+    {
+        "question": "What is the  Outstanding shares expressed as a ratio of  Issued shares for december 2019?",
+        "derivation": " 48,866,220/51,297,394"
+    },
+    {
+        "question": "How much will the operating lease cost be for 2020 if $507 million of leases could be terminated in 1 year?",
+        "derivation": "1,707-507"
+    },
+    {
+        "question": "What was the % change in net income available for common shareholders from 2018 to 2019?",
+        "derivation": "(39,240-16,571)/16,571"
+    },
+    {
+        "question": "What was the % change in the common stock and stock equivalents from 2018 to 2019?",
+        "derivation": "(7,753-7,794)/7,794"
+    },
+    {
+        "question": "What is the Total interest expense for years 2017-2019?",
+        "derivation": "184.1+177.9+184.2"
+    },
+    {
+        "question": "For the year 2019, what is the interest expense for Senior Notes due from 2020-2023 inclusive?",
+        "derivation": "25.4+21.5+23.1+20.7"
+    },
+    {
+        "question": "What is the annual interest expense on the 2021 Notes?",
+        "derivation": "800*2.80%"
+    },
+    {
+        "question": "What is the increase in revenue for Canada from Fiscal year 2018 to 2019?",
+        "derivation": "153,890-149,812"
+    },
+    {
+        "question": "How many bonus equity shares were alloted during the year?",
+        "derivation": "820*1 "
+    },
+    {
+        "question": "How many equity shares are there to one shareholder as on April 1, 2018?",
+        "derivation": "820/26 "
+    },
+    {
+        "question": "How many equity shares are there to one shareholder as on March 31, 2019?",
+        "derivation": "1,640/26 "
+    },
+    {
+        "question": "By how much less did the company make in services revenues in 2019 compared to 2018?",
+        "derivation": "3,395 - 3,240 "
+    },
+    {
+        "question": "How much less was the total margin in 2019 then in 2018?",
+        "derivation": "666-537 "
+    },
+    {
+        "question": "What is the increase in percentage of general and administrative expenses from 2017 to 2019?",
+        "derivation": "(141,076 - 81,680)/81,680 "
+    },
+    {
+        "question": "What is the overall increase in general and administrative expenses from 2017 to 2019?",
+        "derivation": "38 + 22 "
+    },
+    {
+        "question": "As of March 31, 2017, what is the difference between the value of foreign currency translation adjustments and the unrealized gain on available-for-sale securities?  ",
+        "derivation": "7-5"
+    },
+    {
+        "question": "What is the  Other comprehensive income (loss) before reclassifications expressed as a percentage of  Balance as of March 29, 2019 for total AOCI?",
+        "derivation": "-11/-7"
+    },
+    {
+        "question": "What is the gross profit margin in 2019?",
+        "derivation": "6,279 / 22,104"
+    },
+    {
+        "question": "What was the cost of the shares purchased from May 1 - May 31, 2019?",
+        "derivation": "250,000*$134.35"
+    },
+    {
+        "question": "What was the cash flows provided by operating activities in 2019 as a percentage of the cash flow in 2018?",
+        "derivation": "378.3/435.5"
+    },
+    {
+        "question": "How much of the shares purchased in July were part of publicly announced plan or programs?",
+        "derivation": "442,846/462,629 "
+    },
+    {
+        "question": "For Fiscal year 2019, what is the Foreign income expressed as a percentage of Income before income taxes?",
+        "derivation": "171,243/440,574"
+    },
+    {
+        "question": "What is the value difference between granted share and vested share?",
+        "derivation": "51.79-49.48"
+    },
+    {
+        "question": "For fiscal year 2019, what is the total segements Operating income expressed as a percentage of net revenues?",
+        "derivation": "1,414/4,731"
+    },
+    {
+        "question": "How much did the RMB term deposits included in current assets change by between 2018 year end and 2019 year end?",
+        "derivation": "28,598-55,180"
+    },
+    {
+        "question": "How much did the USD term deposits included in current assets change by between 2018 year end and 2019 year end?",
+        "derivation": "16,325-6,349"
+    },
+    {
+        "question": "How much did the total term deposits change by between 2018 year end and 2019 year end?",
+        "derivation": "65,911-62,918"
+    },
+    {
+        "question": "What is the company's total revenue earned from Customer A and B between 2018 and 2019?",
+        "derivation": "14 + 12+10"
+    },
+    {
+        "question": "By how much did the firm's capitalized software development costs decrease by in 2019 as compared to 2018?",
+        "derivation": "(1,276-1,074)/1,276"
+    },
+    {
+        "question": "What is the price of RSUs outstanding on September 30, 2019?",
+        "derivation": "2,352,487*8.26 "
+    }
+]
