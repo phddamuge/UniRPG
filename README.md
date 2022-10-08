@@ -20,7 +20,7 @@ The preprocessed train/dev/test data is stored in the folder ```tag_op/cache/```
 
 ## Training
 You should run the following scripts to train the UniRPG</br>
-```bash scripts/train_bart_large.sh```
+```bash scripts/train_bart_large.sh```</br>
 The trained UniRPG model is saved in the folder ```checkpoint```
 ## Validation
 First check the saved path of model in the following scripts and then run them to evaluate the trained model in dev set</br>
