@@ -25,6 +25,7 @@ The trained UniRPG model is saved in the folder ```checkpoint```
 ## Validation
 First check the saved path of model in the following scripts and then run them to evaluate the trained model in dev set</br>
 ```bash scripts/validate.sh```</br>
+```bash scripts/execute.sh```</br>
 ```bash scripts/eval.sh```
 ## Inference
 Please check the saved path of model in the following scripts, and then predict the programs and execute them to get the answers of test instances.</br>
