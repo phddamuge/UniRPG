@@ -10,9 +10,9 @@ allennlp==2.0.1</br>
 spacy==2.0.1</br>
 
 # Training and Inference
-The folder UniRPG_full is for training UniRPG with the derivation annotations while the folder UniRPG_weak is for the setting without the derivation annotations.
+The folder ```UniRPG_full``` is for training UniRPG with the derivation annotations while the folder ```UniRPG_weak``` is for the setting without the derivation annotations.
 ## Preprocessing
-You should run the following scripts to preprocess training/dev/test data.</br>
+First download the BART pre-trained models and put them in the folder ```plm```, then you should run the following scripts to preprocess training/dev/test data.</br>
 ```bash scripts/prepare_data_train.sh```</br>
 ```bash scripts/prepare_data_dev.sh```</br>
 ```bash scripts/prepare_data_test.sh```</br>
