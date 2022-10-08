@@ -16,7 +16,9 @@ First download pre-trained model BART and put files in the folder ```plm```, the
 ```bash scripts/prepare_data_train.sh```</br>
 ```bash scripts/prepare_data_dev.sh```</br>
 ```bash scripts/prepare_data_test.sh```</br>
-The preprocessed train/dev/test data is stored in the folder ```tag_op/cache/```
+The preprocessed train/dev/test data is stored in the folder ```tag_op/cache/```</br>
+Under weak supervision setting, you should first run the following command to converge multi-span instances to count instances, and then run the above preprocessing scripts.</br>
+```python3 tag_op/data/count_instance_construction.py```
 
 ## Training
 You should run the following scripts to train the UniRPG</br>
