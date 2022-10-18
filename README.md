@@ -34,5 +34,15 @@ Please check the saved path of model in the following scripts, and then predict 
 ```bash scripts/predict.sh ```</br>
 ```bash scripts/execute.sh```</br>
 # Thanks for your Citation.
+```
+@inproceedings{zhou2022unirpg,
+  doi = {10.48550/ARXIV.2210.08249},
+  url = {https://arxiv.org/abs/2210.08249},
+  author = {Zhou, Yongwei and Bao, Junwei and Duan, Chaoqun and Wu, Youzheng and He, Xiaodong and Zhao, Tiejun},
+  title = {UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation},
+  publisher = {arXiv},
+  year = {2022},
+}
 
+```
 
