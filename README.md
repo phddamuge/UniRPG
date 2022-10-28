@@ -32,7 +32,7 @@ First check the saved path of model in the following scripts and then run them t
 Please check the saved path of model in the following scripts, and then predict the programs and execute them to get the answers of test instances.</br>
 ```bash scripts/predict.sh ```</br>
 ```bash scripts/execute.sh```</br>
-# Thanks for your Citation.
+# Thanks for your citation.
 ```
 @inproceedings{zhou2022unirpg,
   doi = {10.48550/ARXIV.2210.08249},
