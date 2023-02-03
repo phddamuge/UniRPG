@@ -1,6 +1,6 @@
 # UniRPG
 
-This is the code for the EMNLP 2022 Paper [UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.508.pdf).  Our code is based on the repository [TAT-QA](https://github.com/NExTplusplus/TAT-QA).
+This is the code for the EMNLP 2022 Paper [UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation](https://aclanthology.org/2022.emnlp-main.508.pdf).  Our code is based on the repository [TAT-QA](https://github.com/NExTplusplus/TAT-QA).
 # Environment
 torch==1.7.1</br>
 transformers==3.3.0</br>
