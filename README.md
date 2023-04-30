@@ -34,13 +34,21 @@ Please check the saved path of model in the following scripts, and then predict 
 ```bash scripts/execute.sh```</br>
 # Thanks for your citation.
 ```
-@inproceedings{zhou2022unirpg,
-  doi = {10.48550/ARXIV.2210.08249},
-  url = {https://arxiv.org/abs/2210.08249},
-  author = {Zhou, Yongwei and Bao, Junwei and Duan, Chaoqun and Wu, Youzheng and He, Xiaodong and Zhao, Tiejun},
-  title = {UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation},
-  publisher = {arXiv},
-  year = {2022},
+@inproceedings{zhou-etal-2022-unirpg,
+    title = "{U}ni{RPG}: Unified Discrete Reasoning over Table and Text as Program Generation",
+    author = "Zhou, Yongwei  and
+      Bao, Junwei  and
+      Duan, Chaoqun  and
+      Wu, Youzheng  and
+      He, Xiaodong  and
+      Zhao, Tiejun",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.508",
+    pages = "7494--7507"
 }
 
 ```
